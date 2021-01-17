@@ -19,7 +19,7 @@ A simple PHP program which display our internet ip address from linux.
 
 + git clone https://github.com/r3k4t/phpshowmyip.git
 + cd phpshowmyip
-+ sudo php phpshowmyip.pl
++ sudo php phpshowmyip.php
 
 
 
