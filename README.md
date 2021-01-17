@@ -6,6 +6,7 @@
 
 <br>
 [![php](https://img.shields.io/badge/PHP-7-purple.svg)](https://www.php.net/releases/index.php)
+
 [![OS](https://img.shields.io/badge/Tested%20On-Linux-purple.svg)](https://en.wikipedia.org/wiki/Linux)
 
 <h6>Author : RKT</h6>
