@@ -5,7 +5,8 @@
 ![Screenshot from 2021-01-17 10-17-13](https://user-images.githubusercontent.com/69615463/104831175-8db6fc00-58b0-11eb-8728-69d36b42bc01.png)
 
 <br>
-[![php](https://img.shields.io/badge/PHP-7-purple.svg)](https://www.php.net/releases/index.php)
+
+[![PHP](https://img.shields.io/badge/PHP-7-purple.svg)](https://www.php.net/releases/index.php)
 
 [![OS](https://img.shields.io/badge/Tested%20On-Linux-purple.svg)](https://en.wikipedia.org/wiki/Linux)
 
